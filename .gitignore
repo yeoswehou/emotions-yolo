@@ -162,3 +162,4 @@ cython_debug/
 *.h5
 *.tflite
 Emotions/
+Human Faces/
