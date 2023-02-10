@@ -164,3 +164,5 @@ cython_debug/
 Emotions/
 Human Faces/
 testfiles/
+*.pth
+*.onnx
