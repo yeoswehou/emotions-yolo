@@ -1,0 +1,7 @@
+---
+names: [ "dog", "person","cat","tv","car","meatballs","marinara sauce","tomato soup","chicken noodle soup",
+         "French onoin soup","chicken breast","ribs","pulled pork","hamburger","cavity","face"]
+nc: 16
+path : Human Faces/Training
+train: train
+val: val
